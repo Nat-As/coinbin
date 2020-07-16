@@ -1,6 +1,6 @@
 coinbin
 =======
-[reference](https://blog.kherwa.com/2018/01/08/create-bitcoin-transaction-using-javascript/#fn1)
+[reference](https://blog.kherwa.com/2018/01/08/create-bitcoin-transaction-using-javascript/)
 <br>
 A Open Source Browser Based Bitcoin Wallet. Version 1.6 beta by OutCast3k
 
